@@ -13,3 +13,12 @@
 
   --navbar-height: 40px;
 }
+
+.content-page {
+  display: flex;
+}
+
+.page {
+  flex-grow: 1;
+  padding: 20px;
+}
